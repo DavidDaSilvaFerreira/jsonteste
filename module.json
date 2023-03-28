@@ -33,5 +33,5 @@
     }
   },
   "protected": false,
-  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/pf2e-tokens-bestiaries/module.json"
+  "manifest": "https://raw.githubusercontent.com/DavidDaSilvaFerreira/jsonteste/main/module.json"
 }
